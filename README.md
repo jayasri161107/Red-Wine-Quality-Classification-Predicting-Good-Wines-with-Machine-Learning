@@ -44,10 +44,10 @@ Evaluation metrics: Accuracy, Precision, Recall, F1-Score, ROC-AUC and confusion
 
 Results
 Model	Accuracy	Precision	Recall	F1-Score	ROC-AUC
-Logistic Regression	0.779	0.374	0.919	0.531	0.890
-Random Forest	0.868	0.513	0.541	0.526	0.883
-Decision Tree	0.790	0.361	0.703	0.477	0.789
-KNN	0.868	0.517	0.405	0.455	0.800
+Logistic Regression: Accuracy 0.779, Precision 0.374, Recall 0.919, F1-Score 0.531, ROC-AUC 0.890
+Random Forest: Accuracy 0.868, Precision 0.513, Recall 0.541, F1-Score 0.526, ROC-AUC 0.883
+Decision Tree: Accuracy 0.790, Precision 0.361, Recall 0.703, F1-Score 0.477, ROC-AUC 0.789
+KNN: Accuracy 0.868, Precision 0.517, Recall 0.405, F1-Score 0.455, ROC-AUC 0.800
 
 Key Findings
 Most influential features: alcohol, volatile acidity, sulphates and citric acid. Residual sugar and pH matter least.
